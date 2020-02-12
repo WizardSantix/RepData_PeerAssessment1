@@ -147,3 +147,5 @@ geom_line()+guides(color=FALSE)
 ```
 
 ![](PA1_template_files/figure-html/weekday vs weekend-1.png)<!-- -->
+
+There are clear differences between weekdays and weekends, for weekdays, most of the activity seems to be done during the morning.
