@@ -1,8 +1,9 @@
 --- 
-title: "Untitled" 
+title: "RepData Peer Assessment 1" 
 output: 
   html_document: 
     keep_md: TRUE 
+    preserve_yaml: FALSE
 ---
 
 
